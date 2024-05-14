@@ -2,8 +2,11 @@
 This repository is an implementation of 3D CNN on SPHAR dataset which includes Training, Validation and Inference 
 
 # Required Files
-python3
-opencv3 (with ffmpeg), keras, numpy, tqdm
+- python3==3.6.13
+- opencv3==3.4.2
+- keras==2.6.0
+- numpy==1.19.2
+- tqdm==4.64.1
 
 # Options
 Options of 3dcnn.py are as following:
